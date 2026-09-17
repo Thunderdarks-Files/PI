@@ -34,11 +34,13 @@ Extract it all:
 EG: Genetical Enhanced Livestock (P2) need P0 Complex Organisms and P0 Planktic Colonies. Thise 2 resources only exist on Oceanic planets. In fig 2, you can see the blue square with an O inside it. Indicating Oceanic.
 
 <img width="222" height="353" alt="image" src="https://github.com/user-attachments/assets/8e5317ca-5236-478f-9498-300ca2bccd4a" />
+
 Figure 2 Only Oceanic planets have 2xP0 for Genetic Enhanced Livestock.
 
 7.  P2->P4 factories factory templates can only be used on Barren and Temperate plantes.
 <img width="317" height="279" alt="image" src="https://github.com/user-attachments/assets/d8758dcf-b60f-4e10-bc78-c5cbf2bec61f" />
 <img width="470" height="279" alt="image" src="https://github.com/user-attachments/assets/e4f52c0c-d805-4e50-9dc4-6c844f2fb92c" />
+
 Figure 3 You need to import the right pi materials into the correct Launchpad. This one need Biocells and Silicatre class to the Lauchpad to the right.
 
 8.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
