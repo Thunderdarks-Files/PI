@@ -38,11 +38,12 @@
 
     Figure 2 Only Oceanic planets have 2xP0 for Genetic Enhanced Livestock.
 
-1.  P2->P4 factories factory templates can only be used on Barren and Temperate plantes.
+4.  P2->P4 factories factory templates can only be used on Barren and Temperate plantes.
 
- 
+    <img width="317" height="279" alt="image" src="https://github.com/user-attachments/assets/bf711c1d-4326-46b5-a2e3-bfe803b69d43" />
+    <img width="470" height="279" alt="image" src="https://github.com/user-attachments/assets/510aabe0-c528-4d28-9e3f-687a9c7cf44d" />
 
-Figure 3 You need to import the right pi materials into the correct Launchpad. This one need Biocells and Silicatre class to the Lauchpad to the right.
+    Figure 3 You need to import the right pi materials into the correct Launchpad. This one need Biocells and Silicatre class to the Lauchpad to the right.
 
 1.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
 
