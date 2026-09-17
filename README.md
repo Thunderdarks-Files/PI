@@ -23,7 +23,9 @@
     PI templates reside in an Eve online catalogue at our PC with path _/users/&lt;user&gt;/Documents/Eve/PlanetaryInteractionTemplates_. You can extract the ZIP to any location. Then you        can move the templates you need.  
     <br/>
 
-Figure 1 Templates have an explanatory name.
+    <img width="580" height="178" alt="image" src="https://github.com/user-attachments/assets/a60d0500-3302-475b-8d18-b8b57f93997a" />
+
+    Figure 1 Templates have an explanatory name.
 
 1.  Extract it all:
     1.  On your PC, navigate to /users/&lt;user&gt;/Documents/Eve/PlanetaryInteractionTemplates Unzip and paste all json files in the folder above.
