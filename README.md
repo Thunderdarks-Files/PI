@@ -12,16 +12,16 @@
 
 1.  My skills doing PI and making and using the templates:
 
-Command Centre Upgrades 5  
-Interplanetary Consolidation 5  
-Advanced Planetology 4  
-Planetology 4  
-Remote Sensing 3
+    Command Centre Upgrades 5  
+    Interplanetary Consolidation 5  
+    Advanced Planetology 4  
+    Planetology 4  
+    Remote Sensing 3
 
-1.  How to use the template ZIP file.
+2.  How to use the template ZIP file.
 
-PI templates reside in an Eve online catalogue at our PC with path _/users/&lt;user&gt;/Documents/Eve/PlanetaryInteractionTemplates_. You can extract the ZIP to any location. Then you can move the templates you need.  
-<br/>
+    PI templates reside in an Eve online catalogue at our PC with path _/users/&lt;user&gt;/Documents/Eve/PlanetaryInteractionTemplates_. You can extract the ZIP to any location. Then you        can move the templates you need.  
+    <br/>
 
 Figure 1 Templates have an explanatory name.
 
