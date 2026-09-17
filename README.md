@@ -45,11 +45,12 @@
 
     Figure 3 You need to import the right pi materials into the correct Launchpad. This one need Biocells and Silicatre class to the Lauchpad to the right.
 
-5.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
+5.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates      for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
 
- 
+    <img width="391" height="307" alt="image" src="https://github.com/user-attachments/assets/e2112a72-15b1-4d23-a854-81c667d18281" />
+    <img width="419" height="306" alt="image" src="https://github.com/user-attachments/assets/81daa737-87e5-4df3-a5b6-61b7734ac2c2" />
 
-Figure 4 Put P0->P1 template on correct planet. To the right is a factory making P2 from P1 materials. In this case Microfiber Shielding. There are 2x Launchpads, so you need to put the correct material into them, so it matches the routing.
+    Figure 4 Put P0->P1 template on correct planet. To the right is a factory making P2 from P1 materials. In this case Microfiber Shielding. There are 2x Launchpads, so you need to put the      correct material into them, so it matches the routing.
 
 1.  There is a good article called Colony management made by Eve Uni. This article is attached as PDF file. The chapter in this context other than that the article is excellent is: **One Planet P0>P2 - Command Center Upgrades V**. It goes on with:  
     
