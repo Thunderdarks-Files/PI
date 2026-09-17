@@ -22,6 +22,7 @@ Remote Sensing 3
     PI templates reside in an Eve online catalogue at our PC with path _/users/<user>/Documents/Eve/PlanetaryInteractionTemplates_. You can extract the ZIP to any location. Then you can move the templates you need.  
       
 <img width="580" height="178" alt="image" src="https://github.com/user-attachments/assets/23374d2b-c519-46b0-a13b-d3a2b139238f" />
+
 Figure 1 Templates have an explanatory name.
 
 Extract it all:
@@ -46,6 +47,7 @@ Figure 3 You need to import the right pi materials into the correct Launchpad. T
 8.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
 <img width="391" height="307" alt="image" src="https://github.com/user-attachments/assets/77de9b72-876d-42b9-8d9f-6b8ffe30232f" />
 <img width="419" height="306" alt="image" src="https://github.com/user-attachments/assets/87de09d7-74ff-4bb8-b4e2-6474c36266f7" />
+
 Figure 4 Put P0->P1 template on correct planet. To the right is a factory making P2 from P1 materials. In this case Microfiber Shielding. There are 2x Launchpads, so you need to put the correct material into them, so it matches the routing.
 
 9.  There is a good article called Colony management made by Eve Uni. This article is attached as PDF file. The chapter in this context other than that the article is excellent is: **One Planet P0>P2 - Command Center Upgrades V**. It goes on with:      
@@ -56,6 +58,7 @@ _We will assume that, after setting up the above 5 times, that by the time someo
 11.  
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/1ff08cb5-e165-4ac0-9a6f-29b70100024a" />
 <img width="448" height="332" alt="image" src="https://github.com/user-attachments/assets/08573a3d-ee7c-47bd-b07b-69449c523135" />
+
 Figure 5 Putt the P0-> P2 template to that the extractors have access to both P0 materials.
 
 Regards  
