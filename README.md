@@ -45,7 +45,7 @@
 
     Figure 3 You need to import the right pi materials into the correct Launchpad. This one need Biocells and Silicatre class to the Lauchpad to the right.
 
-1.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
+5.  Some P1 materials need to be made on 2 separate planets for P2 materials. Example of this is Microfiber Shielding, Polyaramids and Silicate Glass. There are therefore separate templates for making the P0 -> P1 materials for shies P2 materials. You need check what the P0->P1 template make and put it on the right planet type.
 
  
 
