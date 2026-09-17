@@ -27,15 +27,16 @@
 
     Figure 1 Templates have an explanatory name.
 
-1.  Extract it all:
-    1.  On your PC, navigate to /users/&lt;user&gt;/Documents/Eve/PlanetaryInteractionTemplates Unzip and paste all json files in the folder above.
-    2.  Refresh your templates menu in game.
+3.  Extract it all:
+    a.  On your PC, navigate to /users/&lt;user&gt;/Documents/Eve/PlanetaryInteractionTemplates Unzip and paste all json files in the folder above.
+    b.  Refresh your templates menu in game.
+    c.  P0->P2 colonies must be set up on correct planet. Check the PDF file for what planet needed to have both P0 resources.
 
-- 1.  P0->P2 colonies must be set up on correct planet. Check the PDF file for what planet needed to have both P0 resources.
+    EG: Genetical Enhanced Livestock (P2) need P0 Complex Organisms and P0 Planktic Colonies. Thise 2 resources only exist on Oceanic planets. In fig 2, you can see the blue square with an O     inside it. Indicating Oceanic.
 
-EG: Genetical Enhanced Livestock (P2) need P0 Complex Organisms and P0 Planktic Colonies. Thise 2 resources only exist on Oceanic planets. In fig 2, you can see the blue square with an O inside it. Indicating Oceanic.
+    <img width="222" height="353" alt="image" src="https://github.com/user-attachments/assets/defaf5a2-97ad-4f8a-aef0-55d5f430026b" />
 
-Figure 2 Only Oceanic planets have 2xP0 for Genetic Enhanced Livestock.
+    Figure 2 Only Oceanic planets have 2xP0 for Genetic Enhanced Livestock.
 
 1.  P2->P4 factories factory templates can only be used on Barren and Temperate plantes.
 
