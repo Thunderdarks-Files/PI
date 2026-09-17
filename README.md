@@ -52,16 +52,16 @@
 
     Figure 4 Put P0->P1 template on correct planet. To the right is a factory making P2 from P1 materials. In this case Microfiber Shielding. There are 2x Launchpads, so you need to put the      correct material into them, so it matches the routing.
 
-1.  There is a good article called Colony management made by Eve Uni. This article is attached as PDF file. The chapter in this context other than that the article is excellent is: **One Planet P0>P2 - Command Center Upgrades V**. It goes on with:  
+6.  There is a good article called Colony management made by Eve Uni. This article is attached as PDF file. The chapter in this context other than that the article is excellent is: **One         Planet P0>P2 - Command Center Upgrades V**. It goes on with:  
     
+    _We will assume that, after setting up the above 5 times, that by the time someone has trained Command Center Upgrades V they have a solid understanding of how the process works. Command    Center Upgrades V allows us to add 2 additional Basic Industry Facilities and 1 additional Advanced Industrial Facility. This will increase the productivity of the Planet by 33%. To          achieve maximum efficiency, the Extractor Control Units will need to be running at_ **_18,000 Units per Hour_** _to keep up with the increased demand. You will likely need to drop to 3       Extractor Heads on one resource to have enough space to fit the Advanced Industrial Facility. With some re-positioning of the Extractor Control Units closer to the main site, you can         free     up some fitting space by reducing the lengths of the links between the Extractor Control Units and the Storage Facility, which should allow you to place that fourth Extractor        Head back out. It takes a little effort to get the positioning right and can be fiddly, but at an increase of 33% it definitely is worth the added effort. Place the two addition Basic        Industrial Facility first, then the Advanced Industrial Facility so that the P0 resources do not run into the transit limit between structures_
 
-_We will assume that, after setting up the above 5 times, that by the time someone has trained Command Center Upgrades V they have a solid understanding of how the process works. Command Center Upgrades V allows us to add 2 additional Basic Industry Facilities and 1 additional Advanced Industrial Facility. This will increase the productivity of the Planet by 33%. To achieve maximum efficiency, the Extractor Control Units will need to be running at_ **_18,000 Units per Hour_** _to keep up with the increased demand. You will likely need to drop to 3 Extractor Heads on one resource to have enough space to fit the Advanced Industrial Facility. With some re-positioning of the Extractor Control Units closer to the main site, you can free up some fitting space by reducing the lengths of the links between the Extractor Control Units and the Storage Facility, which should allow you to place that fourth Extractor Head back out. It takes a little effort to get the positioning right and can be fiddly, but at an increase of 33% it definitely is worth the added effort. Place the two addition Basic Industrial Facility first, then the Advanced Industrial Facility so that the P0 resources do not run into the transit limit between structures_
+7.  _Place the template is such a way that extractors have access to both P0 resources. Donâ€™t spend your cpu on moving them out._
 
-1.  _Place the template is such a way that extractors have access to both P0 resources. Donâ€™t spend your cpu on moving them out._
+     <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/3190d7a9-0edc-4ec4-ba09-53345d178471" />
+     <img width="448" height="332" alt="image" src="https://github.com/user-attachments/assets/da7271b2-5aab-44cf-bb2c-5b5745689b32" />
 
- 
-
-Figure 5 Putt the P0-> P2 template to that the extractors have access to both P0 materials.
+    Figure 5 Putt the P0-> P2 template to that the extractors have access to both P0 materials.
 
 Regards  
 Thunderdarks
