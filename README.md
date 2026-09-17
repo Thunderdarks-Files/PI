@@ -21,8 +21,7 @@ Remote Sensing 3
 1.  How to use the template ZIP file.  
     PI templates reside in an Eve online catalogue at our PC with path _/users/<user>/Documents/Eve/PlanetaryInteractionTemplates_. You can extract the ZIP to any location. Then you can move the templates you need.  
       
-    ![A screenshot of a computer program
-    AI-generated content may be incorrect.](./images/image0.png)
+   <img width="580" height="178" alt="image" src="https://github.com/user-attachments/assets/23374d2b-c519-46b0-a13b-d3a2b139238f" />
 
 Figure 1 Templates have an explanatory name.
 
